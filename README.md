@@ -1,7 +1,7 @@
 # Analiza i przewidywanie wyników treningowych (Gym Members Exercise Dataset)
 
 Projekt realizowany w ramach laboratorium z Metod AI w Badaniu Zagrożeń w Systemach Komputerowych. 
-Celem projektu jest analiza danych dotyczących członków siłowni oraz implementacja modeli uczenia maszynowego do przewidywania [...].
+Celem projektu jest analiza danych dotyczących członków siłowni oraz implementacja modeli uczenia maszynowego do przewidywania poziomu zaawansowania i typu treningu na podstawie jego parametrów.
 
 ## Struktura projektu / Etapy
 
