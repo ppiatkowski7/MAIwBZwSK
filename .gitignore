@@ -1,0 +1,12 @@
+# Środowiska wirtualne
+venv/
+env/
+.venv/
+
+# Pliki konfiguracyjne PyCharm
+.idea/
+
+# Pliki tymczasowe i cache Pythona
+__pycache__/
+*.pyc
+
